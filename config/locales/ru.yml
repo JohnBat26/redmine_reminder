@@ -1,0 +1,22 @@
+# English strings go here for Rails i18n
+ru:
+  redmine_reminder_mailer:
+    mail_subject: "Redmine Reminder"
+    mail_header: "Срок следующих задач истекает"
+    field_status: "Состояние"
+    field_priority: "Приоритет"
+    field_due_date: "Срока"
+    field_done_ratio: "Процент завершения"
+    number_of_issues:
+      one: "Это письмо напоминает об одной задаче которая скоро истекает"
+      other: "Это письмо напоминает о %{count} задач, которые скоро истекают"
+
+  settings:
+    intervals_label: "Интервалы напоминания"
+
+  field_reminder_notification: "Подписаться на сервис напоминаний"
+
+  activerecord:
+    attributes:
+      custom_field:
+        reminder_subscription: "Reminder Mail"
