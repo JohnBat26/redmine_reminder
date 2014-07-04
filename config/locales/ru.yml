@@ -13,7 +13,8 @@ ru:
 
   settings:
     intervals_label: "Интервалы напоминания"
-
+  field_subscribe_to_reminder: "Подписаться на сервис напоминаний"
+  redmine_reminder_account_settings_title: "Напоминания"
   field_reminder_notification: "Подписаться на сервис напоминаний"
 
   activerecord:
